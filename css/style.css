@@ -70,26 +70,26 @@ hr {
 }
 
 button {
-    cursor: pointer;
-    background-color: #18b0a3; /* Green */
-    border: none;
-    color: #e0edef;
-    padding: 25px;
-    width: 50%;
-    height: 300px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 19px;
-    font-weight: bold;
-    font-family: 'Comfortaa', cursive;
-    outline:none;
+  cursor: pointer;
+  background-color: #18b0a3; /* Green */
+  border: none;
+  color: #e0edef;
+  padding: 25px;
+  width: 50%;
+  height: 300px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  font-weight: bold;
+  font-family: 'Comfortaa', cursive;
+  outline:none;
 }
 
 button:focus {outline:0;}
 
 button:active {
-    box-shadow:inset 3px 3px 3px 3px rgba(50,50,50,0.2);
+  box-shadow:inset 3px 3px 3px 3px rgba(50,50,50,0.2);
   color: #2FA564;
 }
 
@@ -116,7 +116,7 @@ button:active {
 }
 
 .choices button:hover {
-    color:#141415;
+  color:#141415;
 }
 
 .options{
